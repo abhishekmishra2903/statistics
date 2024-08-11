@@ -178,7 +178,7 @@ The list can keep going, but this book is going to put more weightage on **Stati
                 
                 """)
     import pandas as pd
-    df=pd.read_csv("C:\\Users\\Miles\\Documents\\Statistics_streamlit\\Employee.csv")
+    df=pd.read_csv("Employee.csv")
     st.dataframe(df)
     
     st.markdown("""At first the pool of numbers might seem scary, but it hides a bunch of objective answers to a lot of subjective questions. With some very easy to use tools of statistics following analysis can be done:  
