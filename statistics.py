@@ -89,7 +89,7 @@ with st.sidebar:
         unit1=0
         
     st.divider()
-    st.image("C:\\Users\\Miles\\Documents\\Statistics_streamlit\\Abhishek.png",width=160)
+    #st.image("C:\\Users\\Miles\\Documents\\Statistics_streamlit\\Abhishek.png",width=160)
     st.subheader('Abhishek Mishra')
     st.text('Author and Developer')
     st.caption(':envelope_with_arrow: patience.might@gmail.com')
