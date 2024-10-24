@@ -193,7 +193,7 @@ if mode=="Reading":
                     
                     """)
         import pandas as pd
-        df=pd.read_csv("C:\\Users\\Abhishek Kumar\\Documents\\Statistics_streamlit\\Employee.csv")
+        df=pd.read_csv("Employee.csv")
         st.dataframe(df)
         
         st.markdown("""At first the pool of numbers might seem scary, but it hides a bunch of objective answers to a lot of subjective questions. With some very easy to use tools of statistics following analysis can be done:  
