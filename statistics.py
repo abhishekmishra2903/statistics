@@ -427,7 +427,7 @@ if mode=="Watching":
     if unit1==  'Applications of Statistics':  
         st.markdown('1. Introduction to Statistics')
         st.subheader("1.1 Applications of Statistics")
-        st_player('https://www.youtube.com/watch?v=roz9sXFkTuE')
+        st_player('https://www.youtube.com/watch?v=X3paOmcrTjQ')
         st.divider()
         
     elif unit1==  'Presenting Different Types of Data':  
